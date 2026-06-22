@@ -275,5 +275,3 @@ In this module, students learned the hardware architecture of an autonomous vehi
 ## Next Module
 
 ➡️ [Module 2: Motor Control](../Module02_Motor_Control/)
-
-Make the vehicle move in a square pattern.
